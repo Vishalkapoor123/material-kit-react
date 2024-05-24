@@ -1,0 +1,183 @@
+{
+    "Header": {
+      "title": "Bringing the world closer",
+      "paragraph": "Welcome to our world of seamless connections! At Grabifly, we're bridging distances and fulfilling desires by linking travelers with those craving items from distant locales. Whether it's a taste of authentic cuisine, a unique souvenir, or a special gift, our platform facilitates the exchange, ensuring both parties experience the joy of sharing cultures and fulfilling wishes. From the bustling streets of Tokyo to the tranquil villages of Tuscany, we're here to make the world a little smaller and a lot more connected. Join us in our journey of global exchange!"
+    },
+    "About": {
+      "paragraph": "Here at Grabifly, we're passionate about fostering connections and making the world a smaller, friendlier place. Our platform empowers travelers to share their journeys in a meaningful way, enabling them to not only explore new destinations but also connect with individuals seeking items from those places. With a focus on trust, reliability, and community, we ensure that each exchange is not just a transaction but an opportunity for cultural exchange and shared experiences. Join us as we embark on a journey of discovery, where borders blur and friendships flourish.",
+      "Why": [
+        "Global access",
+        "Cultural exchange",
+        "Shared experiences"
+      ],
+      "Why2": [
+        "Convenience",
+        "Community",
+        "No platform costs"
+      ]
+    },
+    "Gallery": [
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/01-large.jpg",
+        "smallImage": "img/portfolio/01-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/02-large.jpg",
+        "smallImage": "img/portfolio/02-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/03-large.jpg",
+        "smallImage": "img/portfolio/03-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/04-large.jpg",
+        "smallImage": "img/portfolio/04-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/05-large.jpg",
+        "smallImage": "img/portfolio/05-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/06-large.jpg",
+        "smallImage": "img/portfolio/06-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/07-large.jpg",
+        "smallImage": "img/portfolio/07-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/08-large.jpg",
+        "smallImage": "img/portfolio/08-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/09-large.jpg",
+        "smallImage": "img/portfolio/09-small.jpg"
+      }
+    ],
+    "Services": [
+      {
+        "icon": "fa fa-wordpress",
+        "name": "Lorem ipsum dolor",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      },
+      {
+        "icon": "fa fa-cart-arrow-down",
+        "name": "Consectetur adipiscing",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      },
+      {
+        "icon": "fa fa-cloud-download",
+        "name": "Lorem ipsum dolor",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      },
+      {
+        "icon": "fa fa-language",
+        "name": "Consectetur adipiscing",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      },
+      {
+        "icon": "fa fa-plane",
+        "name": "Lorem ipsum dolor",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      },
+      {
+        "icon": "fa fa-pie-chart",
+        "name": "Consectetur adipiscing",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      }
+    ],
+    "Testimonials": [
+      {
+        "img": "img/testimonials/01.jpg",
+        "text": "I couldn't believe how easy it was to get my hands on authentic Italian leather goods through Grabifly. Thanks to a kind traveler, I received exactly what I wanted from Florence without ever leaving home. Highly recommend!",
+        "name": "Sarah M. (Los Angeles, USA)"
+      },
+      {
+        "img": "img/testimonials/02.jpg",
+        "text": "Using Grabifly was a game-changer for me. I was able to share the flavors of Mexico with people all over the world by fulfilling their requests for spices and delicacies. It's like having a taste of home wherever you go.",
+        "name": "Juan C. (Mexico City, Mexico)"
+      },
+      {
+        "img": "img/testimonials/03.jpg",
+        "text": "As a frequent traveler, I love the concept of Grabifly. It allows me to make meaningful connections with people while sharing the beauty of Paris through unique souvenirs. It's not just about the items; it's about the stories behind them.",
+        "name": "Sophie L. (Paris, France)"
+      },
+      {
+        "img": "img/testimonials/04.jpg",
+        "text": "I've always struggled to find authentic Indian spices and teas abroad, but Grabifly changed that. Thanks to generous travelers, I now have access to the flavors of home no matter where I am. Truly a lifesaver!",
+        "name": "Rajesh K. (Mumbai, India)"
+      },
+      {
+        "img": "img/testimonials/05.jpg",
+        "text": "I've had such wonderful experiences using Grabifly. Whether it's fulfilling requests for traditional Russian nesting dolls or receiving exotic chocolates from faraway lands, each exchange has been a delight. It's like opening a treasure chest every time!",
+        "name": "David H. (Sydney, Australia)"
+      },
+      {
+        "img": "img/testimonials/06.jpg",
+        "text": "I've been blown away by the sense of community on Grabifly. It's not just about transactions; it's about connecting with people from diverse backgrounds and sharing in their experiences. Plus, I've received some incredible Aussie treats in return for my contributions. Highly recommended for anyone with a taste for adventure!",
+        "name": "Elena S. (Moscow, Russia)"
+      }
+    ],
+    "Team": [
+      {
+        "img": "img/team/01.jpg",
+        "name": "John Doe",
+        "job": "Director"
+      },
+      {
+        "img": "img/team/02.jpg",
+        "name": "Mike Doe",
+        "job": "Senior Designer"
+      },
+      {
+        "img": "img/team/03.jpg",
+        "name": "Jane Doe",
+        "job": "Senior Designer"
+      },
+      {
+        "img": "img/team/04.jpg",
+        "name": "Karen Doe",
+        "job": "Project Manager"
+      }
+    ],
+    "Contact": {
+      "address": "4321 California St, San Francisco, CA 12345 ",
+      "phone": "+1 123 456 1234",
+      "email": "info@company.com",
+      "facebook": "fb.com",
+      "twitter": "twitter.com",
+      "youtube": "youtube.com"
+    },
+    "Features": [
+      {
+        "icon": "fa fa-comments-o",
+        "title": "Lorem ipsum",
+        "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      },
+      {
+        "icon": "fa fa-bullhorn",
+        "title": "Lorem ipsum",
+        "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      },
+      {
+        "icon": "fa fa-group",
+        "title": "Lorem ipsum",
+        "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      },
+      {
+        "icon": "fa fa-magic",
+        "title": "Lorem ipsum",
+        "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      }
+    ]
+  }
+  
